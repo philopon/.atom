@@ -1,4 +1,4 @@
 #!/bin/bash
 
-apm list --installed --bare > ~/.atom/packages.txt
+apm list --installed --bare | sed 's/@.*//' > ~/.atom/packages.txt
 git add ~/.atom/packages.txt
