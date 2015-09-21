@@ -7,6 +7,9 @@
     ]
   editor:
     invisibles: {}
+    tabLength: 4
+    showIndentGuide: true
+    showInvisibles: true
   "ide-haskell":
     onSaveLint: false
     closeTooltipsOnCursorMove: true
