@@ -10,3 +10,6 @@
   "ide-haskell":
     onSaveLint: false
     closeTooltipsOnCursorMove: true
+  "vim-mode":
+    useClipboardAsDefaultRegister: true
+    useSmartcaseForSearch: true

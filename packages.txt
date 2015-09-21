@@ -2,4 +2,5 @@ autocomplete-haskell@0.5.1
 haskell-ghc-mod@0.9.10
 ide-haskell@0.7.2
 language-haskell@1.4.6
+vim-mode@0.60.0
 
