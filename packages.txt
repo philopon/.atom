@@ -1,4 +1,5 @@
 autocomplete-haskell@0.5.1
+autocomplete-paths@1.0.2
 file-icons@1.6.9
 git-history@3.1.0
 git-log@0.4.1
@@ -9,6 +10,9 @@ highlight-selected@0.10.1
 ide-haskell@0.7.2
 language-haskell@1.4.6
 merge-conflicts@1.3.6
+multi-cursor@2.1.0
+project-manager@2.5.2
+script@2.26.4
 travis-ci-status@0.18.0
 vim-mode@0.60.0
 
