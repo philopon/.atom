@@ -2,3 +2,4 @@
 /compile-cache/
 /packages/
 /storage/
+/.node-gyp/

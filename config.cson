@@ -7,3 +7,6 @@
     ]
   editor:
     invisibles: {}
+  "ide-haskell":
+    onSaveLint: false
+    closeTooltipsOnCursorMove: true
