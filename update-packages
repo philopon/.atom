@@ -1,0 +1,4 @@
+#!/bin/bash
+
+apm list --installed --bare > ~/.atom/packages.txt
+git add ~/.atom/packages.txt
