@@ -1,0 +1,16 @@
+apiary:
+  title: "apiary"
+  paths: [
+    "/Users/philopon/mysrc/Haskell/apiary"
+    "/Users/philopon/mysrc/Haskell/web-routing"
+  ]
+"bytestring-read":
+  title: "bytestring-read"
+  paths: [
+    "/Users/philopon/mysrc/Haskell/bytestring-read"
+  ]
+haddocset:
+  title: "haddocset"
+  paths: [
+    "/Users/philopon/mysrc/Haskell/haddocset"
+  ]
