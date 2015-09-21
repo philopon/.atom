@@ -11,7 +11,9 @@ ide-haskell@0.7.2
 language-haskell@1.4.6
 merge-conflicts@1.3.6
 multi-cursor@2.1.0
+pigments@0.15.0
 project-manager@2.5.2
+regex-railroad-diagram@0.10.3
 script@2.26.4
 travis-ci-status@0.18.0
 vim-mode@0.60.0
