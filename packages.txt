@@ -1,5 +1,6 @@
 autocomplete-haskell@0.5.1
 autocomplete-paths@1.0.2
+autocomplete-python@0.5.3
 file-icons@1.6.9
 git-history@3.1.0
 git-log@0.4.1
