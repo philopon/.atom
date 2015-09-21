@@ -16,3 +16,7 @@
   "vim-mode":
     useClipboardAsDefaultRegister: true
     useSmartcaseForSearch: true
+  "highlight-line":
+    enableSelectionBorder: true
+    enableUnderline: true
+    enableBackgroundColor: false
