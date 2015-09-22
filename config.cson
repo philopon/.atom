@@ -2,6 +2,13 @@
   welcome:
     showOnStartup: false
   core:
+    packagesWithKeymapsDisabled: [
+      "git-plus"
+      "git-history"
+      "highlight-line"
+      "multi-cursor"
+      "regex-railroad-diagram"
+    ]
     disabledPackages: [
       "exception-reporting"
     ]
@@ -10,6 +17,7 @@
     tabLength: 4
     showIndentGuide: true
     showInvisibles: true
+    scrollPastEnd: true
   "ide-haskell":
     onSaveLint: false
     closeTooltipsOnCursorMove: true
@@ -20,3 +28,13 @@
     enableSelectionBorder: true
     enableUnderline: true
     enableBackgroundColor: false
+  "autocomplete-python":
+    useSnippets: "required"
+  "autocomplete-plus":
+    confirmCompletion: "tab"
+    autoActivationDelay: 0
+    backspaceTriggersAutocomplete: true
+  "highlight-selected":
+    highlightBackground: true
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
