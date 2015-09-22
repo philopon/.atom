@@ -2,6 +2,7 @@ autocomplete-haskell
 autocomplete-paths
 autocomplete-python
 file-icons
+gist
 git-history
 git-log
 git-plus

@@ -3,3 +3,5 @@
 /packages/
 /storage/
 /.node-gyp/
+/gist.token
+/.git-history
