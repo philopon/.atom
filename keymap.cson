@@ -22,15 +22,22 @@
 # * https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 #
 # This file uses CoffeeScript Object Notation (CSON).
-# If you are unfamiliar with CSON, you can read more about it in the 
+# If you are unfamiliar with CSON, you can read more about it in the
 # Atom Flight Manual:
 # https://atom.io/docs/latest/using-atom-basic-customization#cson
 
-'atom-text-editor':
+'atom-text-editor.vim-mode.normal-mode':
     'alt-p': 'multi-cursor:expandUp'
     'alt-n': 'multi-cursor:expandDown'
-
     'alt-j': 'multi-cursor:move-last-cursor-down'
     'alt-k': 'multi-cursor:move-last-cursor-up'
     'alt-h': 'multi-cursor:move-last-cursor-left'
     'alt-l': 'multi-cursor:move-last-cursor-right'
+
+    'f': 'lazy-motion:forward'
+    'x': 'core:delete'
+    'cmd-p': 'clipboard-plus:toggle'
+
+'atom-text-editor.lazy-motion':
+    'ctrl-n': 'lazy-motion:forward'
+    'ctrl-p': 'lazy-motion:backward'

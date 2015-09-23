@@ -2,23 +2,24 @@ atomatigit
 autocomplete-haskell
 autocomplete-paths
 autocomplete-python
+clipboard-plus
 file-icons
 gist
 git-diff-details
 git-log
 haskell-ghc-mod
 haskell-indent
-highlight-line
-highlight-selected
 ide-haskell
 language-diff
 language-haskell
+lazy-motion
 merge-conflicts
-multi-cursor
 pigments
 project-manager
 regex-railroad-diagram
 script
 travis-ci-status
 vim-mode
+vim-mode-clipboard-plus
+vim-mode-visual-block
 

@@ -6,7 +6,6 @@
       "git-plus"
       "git-history"
       "highlight-line"
-      "multi-cursor"
       "regex-railroad-diagram"
     ]
     disabledPackages: [
@@ -24,17 +23,11 @@
   "vim-mode":
     useClipboardAsDefaultRegister: true
     useSmartcaseForSearch: true
-  "highlight-line":
-    enableSelectionBorder: true
-    enableUnderline: true
-    enableBackgroundColor: false
   "autocomplete-python":
     useSnippets: "required"
   "autocomplete-plus":
     confirmCompletion: "tab"
     autoActivationDelay: 0
     backspaceTriggersAutocomplete: true
-  "highlight-selected":
-    highlightBackground: true
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
