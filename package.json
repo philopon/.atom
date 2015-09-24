@@ -1,0 +1,7 @@
+{
+  "coffeelintConfig": {
+    "max_line_length": {
+      "value": 99
+    }
+  }
+}

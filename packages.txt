@@ -13,6 +13,9 @@ ide-haskell
 language-diff
 language-haskell
 lazy-motion
+linter
+linter-coffeelint
+linter-flake8
 merge-conflicts
 pigments
 project-manager

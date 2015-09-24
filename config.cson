@@ -23,11 +23,30 @@
   "vim-mode":
     useClipboardAsDefaultRegister: true
     useSmartcaseForSearch: true
-  "autocomplete-python":
-    useSnippets: "required"
   "autocomplete-plus":
     confirmCompletion: "tab"
     autoActivationDelay: 0
     backspaceTriggersAutocomplete: true
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
+  "linter-flake8":
+    maxComplexity: 20
+    maxLineLength: 99
+".basic.html.text":
+  editor:
+    tabLength: 2
+".json.source":
+  editor:
+    tabLength: 2
+".js.source":
+  editor:
+    tabLength: 2
+".litcoffee.source":
+  editor:
+    tabLength: 2
+".coffee.source":
+  editor:
+    tabLength: 2
+".css.source":
+  editor:
+    tabLength: 2
