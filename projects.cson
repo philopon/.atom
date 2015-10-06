@@ -16,6 +16,7 @@ haddocset:
   ]
 "atom-haskell-indent":
   title: "haskell-indent"
+  devMode: true
   paths: [
     "/Users/philopon/github/haskell-indent"
   ]
