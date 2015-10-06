@@ -12,6 +12,9 @@ haskell-indent
 ide-haskell
 language-diff
 language-haskell
+language-latex
+latex
+latexer
 lazy-motion
 linter
 linter-coffeelint

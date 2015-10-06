@@ -32,6 +32,8 @@
   "linter-flake8":
     maxComplexity: 20
     maxLineLength: 99
+  latex:
+    engine: "xelatex"
 ".basic.html.text":
   editor:
     tabLength: 2
